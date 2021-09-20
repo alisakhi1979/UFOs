@@ -23,6 +23,8 @@
 **Results:**
     
 1. The web app is succesfully developed to include all the search creteria. This applcation can be used by inserting individual or multiple search creteria and updates the list of UFO sighting based on the given search creteria. All changes are applied as the text changes inside the input box and list is updated as soon as user gives the search creteria.
+
+![](static/images/app.png)
         
 **Summary:**
 
